@@ -18,4 +18,12 @@ end
 winner
 end
 
+<<<<<<< HEAD
 
+=======
+def happy_birthday(birthday_kids)
+  birthday_kids.each do |kids_name, age|
+    return "Happy Birthday #{kids_name}! You are now #{age} years old!"
+  end
+end
+>>>>>>> 28bf993e8beea9348f00f186bc45374d1cfd06c3
